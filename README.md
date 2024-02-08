@@ -5,7 +5,7 @@ ARM assembly game software.
 * [Components](#Components)
 * [How To Run](#How-To-Run)
 * [How To Use](#How-To-Use)
-* [Project Description File](./Project%20Description)
+* [Project Description File](./Project%20Description.pdf)
 * [Contributors](#Contributors)
 * [License](./LICENSE)
 # Overview
