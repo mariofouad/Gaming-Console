@@ -5,7 +5,7 @@ ARM assembly game software.
 * [Components](#Components)
 * [How To Run](#How-To-Run)
 * [How To Use](#How-To-Use)
-* [Project Description File]()
+* [Project Description File](./Project-Description)
 * [Contributors](#Contributors)
 * [License](./LICENSE)
 # Overview
@@ -36,6 +36,6 @@ Contributors in the project:
 * Hagar
 * [Doha Abdelfattah](https://github.com/DohaBeltagy)
 * [Mario Fouad](https://github.com/mariofouad)
-* [Mohamed Shaaban]()
+* Mohamed Shaaban
 * [Moaz Hashem](https://github.com/Pixels57)
 * Salma
