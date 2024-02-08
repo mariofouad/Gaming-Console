@@ -1,4 +1,4 @@
-# Game Console
+# Gaming Console
 ARM assembly game software.
 # Table of Contents
 * [Overview](#Overview)
@@ -36,6 +36,6 @@ Contributors in the project:
 * Hagar
 * [Doha Abdelfattah](https://github.com/DohaBeltagy)
 * [Mario Fouad](https://github.com/mariofouad)
-* Mohamed Shaaban
+* [Mohamed Shaaban](https://github.com/sh3boly)
 * [Moaz Hashem](https://github.com/Pixels57)
 * Salma
