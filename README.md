@@ -38,4 +38,4 @@ Contributors in the project:
 * [Mario Fouad](https://github.com/mariofouad)
 * [Mohamed Shaaban](https://github.com/sh3boly)
 * [Moaz Hashem](https://github.com/Pixels57)
-* Salma
+* Salma Mahmoud
